@@ -1,2 +1,3 @@
 # RainCoin
 # lauchcoin
+# launchcoin
